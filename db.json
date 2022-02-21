@@ -15,7 +15,7 @@
     {
       "text": "learning PHP",
       "day": "Feb 20 at 9:30AM",
-      "reminder": false,
+      "reminder": true,
       "id": 3
     },
     {
